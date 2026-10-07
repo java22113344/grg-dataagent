@@ -1,5 +1,7 @@
 # 📊 DataAgent — Ask Your Data Anything
 
+> 🚧 **Under active development — testing build.** Not everything works yet. You may hit bugs, missing buttons, or rough edges. That's exactly why I'm sharing it: to find what breaks.
+>
 > Your files never leave your computer. Drop in a spreadsheet, ask in plain English, get charts and answers.
 
 ![Free](https://img.shields.io/badge/price-%240%20free-brightgreen)
@@ -9,6 +11,8 @@
 ![License](https://img.shields.io/badge/license-AGPL--3.0-lightgrey)
 
 **DataAgent turns boring spreadsheets into clear answers — no Excel formulas, no coding, no monthly fees.**
+
+⚠️ **Honest note:** this v1.0.0 is an early testing release. Core flow (upload → ask → chart → export) works, but some features are incomplete or buggy. Please report whatever you find — broken or confusing counts as useful feedback.
 
 👉 *New here? Start at [Download & try it](#-download--try-it-5-minutes) — you'll have your first chart in 5 minutes.*
 
